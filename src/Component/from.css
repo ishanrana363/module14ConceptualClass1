@@ -1,0 +1,10 @@
+.userFrom{
+    width: 30%;
+    height: auto;
+    background-color: mediumaquamarine;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 200px;
+    padding: 50px;
+
+}

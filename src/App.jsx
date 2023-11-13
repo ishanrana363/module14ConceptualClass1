@@ -1,7 +1,9 @@
+import LoginFromPage from "./Pages/LoginFromPage";
+
 const App = () => {
   return (
     <div>
-      <h1>react </h1>
+        <LoginFromPage/>
     </div>
   );
 };
